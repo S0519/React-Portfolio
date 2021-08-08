@@ -1,0 +1,51 @@
+[
+  {
+    "name": "Budget Tracker",
+    "description": "Budget tracker is an application which allows the user to keep track on his budget.",
+    "url": "https://calm-cove-76257.herokuapp.com/",
+    "image": "/img/projects/budget-tracker.png",
+    "github": "https://github.com/S0519/budget-tracker"
+  },
+  {
+    "name": "Workout Tracker",
+    "description": "Workout tracker is an application which allows users to view the results and statistics corresponding to weight lifting and duration everyday.",
+    "url": "https://workout-tracker-600.herokuapp.com/",
+    "image": "/img/projects/workout-tracker.png",
+    "github": "https://github.com/S0519/Workout-tracker"
+  },
+  {
+    "name": "Task-U-DO",
+    "description": "Task-U-DO app is designed as a to-do list manager. This app allows users to create a to-do list, and follow the status of the tasks.",
+    "url": "https://rocky-shore-33569.herokuapp.com/",
+    "image": "/img/projects/taskudo.png",
+    "github": "https://github.com/S0519/task-u-do"
+  },
+  {
+    "name": "MVC-TECH-BLOG",
+    "description": "MVC Tech Blog is a website that allows users to comment in the blog about different topics.\n\nThe technology used for this application are: javascript, node.js, MySQL, express, sequelize, handlebars, and nodemon.",
+    "url": "https://safe-plains-00158.herokuapp.com/",
+    "image": "/img/projects/mvctechblog.png",
+    "github": "https://github.com/S0519/mvc-tech-blog"
+  },
+  {
+    "name": "Note Taker Web App",
+    "description": "This app utilizes command-line node.js express",
+    "url": "https://note-taker-blk.herokuapp.com/",
+    "image": "/img/projects/note-taker.png",
+    "github": "https://github.com/S0519/Note-Taker"
+  },
+  {
+    "name": "Weather-Dashboard",
+    "description": "Weather-Dashboard allow the user to search for weather information by city name. By default, the application loads information for the city of Kansas",
+    "url": "https://s0519.github.io/Weather-Dashboard/",
+    "image": "/img/projects/weather-dashboard.png",
+    "github": "https://github.com/S0519/Weather-Dashboard"
+  },
+  {
+    "name": "HTML Portfolio",
+    "description": "This is my portfolio project, showcasing my skills.",
+    "url": "https://s0519.github.io/Portfolio/",
+    "image": "/img/projects/portfolio.png",
+    "github": "https://github.com/S0519/Portfolio"
+  }
+]
